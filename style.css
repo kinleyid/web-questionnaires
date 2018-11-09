@@ -1,0 +1,53 @@
+p {
+    display: inline;
+    font-size: 3vmin;
+    font-family: verdana;
+    max-width: 6vw;
+}
+input[type=radio]{
+    height: 5vmin
+}
+
+input {
+    font-size: 3vmin;
+    font-family: verdana;
+}
+
+fieldet {
+    max-width: 75vw;
+}
+
+label {
+    font-size: 3vmin;
+    font-family: verdana;
+}
+
+input[type=submit] {
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    padding: 2vmin 2vmin 2vmin 2vmin;
+}
+
+input[type=submit]:hover {
+    cursor: pointer;
+    background-color: #e5e5e5;
+}
+
+button {
+	background-color: white;
+	margin: 1vw 1px;
+	border: 1px solid black;
+	color: black;
+	padding: 2vw 0px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 4vmin;
+	font-family: verdana;
+	width: 15vw;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #e5e5e5;
+}
